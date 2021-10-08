@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(47, 141, 255);
+}
+li{
+    background-image: url(./add\ meme\ background.png);
+    background-color: blue;
+    color: pink;
+}

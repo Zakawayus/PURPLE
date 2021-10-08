@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(47, 141, 255);
+    background-image:url(./home\ background.jpeg)
+}
+h1{
+    font-size: 140px;
+    border-style: ridge;
+
+}
+li{
+    background-color: hotpink;
+}
